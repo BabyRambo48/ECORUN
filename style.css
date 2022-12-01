@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    background-color: black;
+    font-family: sans-serif;
+}
+
+img {
+    border-radius:10px ;
+}
+
+div {
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.juego {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h3 {
+    color: rgb(199, 197, 197);
+    text-align: center;
+}
